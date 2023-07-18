@@ -1,5 +1,6 @@
 # Companies-leaving-staying-in-Russia-due-to-restrictions
 SparkParser.py - Парсер для подбора ИНН компаний(нерабочий) 
+
 macros.py - Макрос для подбора ИНН компаний 
 
 YaleParser.py - Парсер для автозаполнения базы на основе списка Ельского Университета 
